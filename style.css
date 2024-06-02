@@ -1,3 +1,8 @@
 h1{
     color: red;
 }
+a{
+    list-style: none;
+    text-decoration: none;
+    color: yellow;
+}
