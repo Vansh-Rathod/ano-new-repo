@@ -1,3 +1,8 @@
 h1{
     color: red;
 }
+.new-feature{
+    color: green;
+    background-color: blue;
+    border: 1px solid black;
+}
